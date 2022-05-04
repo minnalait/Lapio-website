@@ -1,8 +1,24 @@
-.punaiset { color: rgb(128, 3, 3); }
-#sininen_otsikko {
+/* .punaiset { color: rgb(128, 3, 3); } */
+/* #sininen_otsikko {
     color : blue;
+} */
+
+/* #jatkuu {color:red;}
+
+.pinkit {color: palevioletred;} */
+
+body {
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+    color: #555;
 }
 
-#jatkuu {color:red;}
+h2 {
+    margin-top: 1em;
+    padding-top: 1em;
+    color: #333;
+}
 
-.pinkit {color: palevioletred;}
