@@ -3,6 +3,13 @@
     height: 100px;
     background-color: red;
     position: relative;
+    border-style: solid;
+    border-color: green;
+    border-width: 10px;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 
 .ycontainer {
@@ -10,9 +17,15 @@
     height: 100px;
     background-color: yellow;
     left: 250px;
-    bottom: 116px;
+    bottom: 140px;
     position: relative;
-    
+    border-style: solid;
+    border-color:red;
+    border-width: 10px;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 
 
@@ -22,5 +35,16 @@
     background-color: green;
     position: relative;
     left: 500px;
-    bottom: 232px;
+    bottom: 280px;
+    border-style: solid;
+    border-color:yellow;
+    border-width: 10px;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
+
+#sini {color: blue;}
+
+.lila {color: blueviolet;}
