@@ -1,1 +1,8 @@
-p { background-color: red; }
+.punaiset { color: rgb(128, 3, 3); }
+#sininen_otsikko {
+    color : blue;
+}
+
+#jatkuu {color:red;}
+
+.pinkit {color: palevioletred;}
